@@ -20,6 +20,7 @@ namespace MySampleApplication
         }
 // its my first commit
 //it my second commit
+//it my third commit
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
